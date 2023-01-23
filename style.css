@@ -414,7 +414,9 @@ nav>h2{
                 margin: 0;
                 padding: 0;
               } 
-              .btn{
+
+              .email-btn{
+
                display: none;
               }
               .home-img {
@@ -451,7 +453,7 @@ nav>h2{
              .social{
           position: relative;
           top:-40px ;
-          left: 90px;
+          left: 30px;
              }
 
              .up{
